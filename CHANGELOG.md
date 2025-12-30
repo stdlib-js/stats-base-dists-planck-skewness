@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-18)
+## Unreleased (2025-12-30)
 
 <section class="features">
 
@@ -35,6 +35,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`6d64a34`](https://github.com/stdlib-js/stdlib/commit/6d64a344071e5e7afd0a8500cc27bee493d6e439) - **docs:** replace manual `for` loop in examples [(#9439)](https://github.com/stdlib-js/stdlib/pull/9439) _(by Harsh Yadav, Athan Reines)_
+-   [`47088cc`](https://github.com/stdlib-js/stdlib/commit/47088cc299d84289a904dd2e7d2cdf0aee9057aa) - **docs:** fix TSDoc comments example code and return annotation values _(by Philipp Burckhardt)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`07a3861`](https://github.com/stdlib-js/stdlib/commit/07a3861a1d7b396fd95d93089cc135a323fb22fd) - **style:** remove blank line _(by Athan Reines)_
 -   [`8987e23`](https://github.com/stdlib-js/stdlib/commit/8987e23a05d1df2d7b062a2211394142dc3853b9) - **feat:** add C implementation for `stats/base/dists/planck/skewness` _(by Philipp Burckhardt)_
@@ -50,9 +52,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh Yadav
 -   Jaysukh Makvana
 -   Philipp Burckhardt
 
