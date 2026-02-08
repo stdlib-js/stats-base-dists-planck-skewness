@@ -64,7 +64,7 @@ where `λ` is the shape parameter.
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck-skewness@v0.1.1-deno/mod.js';
 ```
 
 #### skewness( lambda )
@@ -112,7 +112,7 @@ v = skewness( -1.5 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck-skewness@v0.1.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
