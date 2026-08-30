@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-08-30)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d72b6e9`](https://github.com/stdlib-js/stdlib/commit/d72b6e9b9bb092f31be5af26e5195174cc428b20) - **test:** migrate `stats/base/dists/planck/skewness` to ULP-based assertions [(#14797)](https://github.com/stdlib-js/stdlib/pull/14797) _(by Athan Reines)_
 -   [`50a34cf`](https://github.com/stdlib-js/stdlib/commit/50a34cffd477b655ab96d0aefd61744ef964a58f) - **style:** remove extra trailing newlines [(#12968)](https://github.com/stdlib-js/stdlib/pull/12968) _(by Philipp Burckhardt)_
 -   [`9a51841`](https://github.com/stdlib-js/stdlib/commit/9a51841213eb13adbd6b8fe36d96c00aac9fbb17) - **bench:** refactor to use string interpolation in `stats/base` [(#11393)](https://github.com/stdlib-js/stdlib/pull/11393) _(by Karan Anand)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 
